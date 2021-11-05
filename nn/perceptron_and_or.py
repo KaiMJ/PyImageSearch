@@ -1,7 +1,7 @@
 from os import EX_PROTOCOL
 from pickle import NEWOBJ_EX
-from nn.perceptron import Perceptron
-from nn.neuralnetwork import NeuralNetwork
+from perceptron import Perceptron
+from neuralnetwork import NeuralNetwork
 import numpy as np
 
 # AND
